@@ -1,0 +1,17 @@
+<estructuras>
+     <estructura>
+          <tabla>Cliente</tabla>
+          <Nit>int</Nit>
+          <Nombre>char</Nombre>
+          <Apellido>char</Apellido>
+          <clave>Nit</clave>
+     </estructura>
+     <estructura>
+          <tabla>Tienda</tabla>
+          <Id>int</Id>
+          <Nit>int</Nit><Cliente>
+          <Nombre>char</Nombre>
+          <Ubicacion>char</Ubicacion>
+     </estructura>
+</estructuras>
+

@@ -1,0 +1,22 @@
+<Cliente>
+     <Nit>1234</Nit>
+     <Nombre>Jeffrey</Nombre>
+     <Apellido>Menendez</Apellido>
+</Cliente>
+<Cliente>
+     <Nit>1235</Nit>
+     <Nombre>Kenneth</Nombre>
+     <Apellido>Castillo</Apellido>
+</Cliente>
+<Cliente>
+     <Nit>123522</Nit>
+     <Nombre>Kennethhh</Nombre>
+     <Apellido>Castillooo</Apellido>
+</Cliente>
+<Tienda>
+     <Id>1</Id>
+     <Nit>1234</Nit>
+     <Nombre>Tienda1</Nombre>
+     <Ubicacion>Ubicacion</Ubicacion>
+</Tienda>
+
